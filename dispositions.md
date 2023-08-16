@@ -1,3 +1,5 @@
+[retour](README.md)
+
 # Autres dispositions importantes
 
 ## Gestion des déchets
