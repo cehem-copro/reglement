@@ -1,4 +1,4 @@
-[retour](Readme.md)
+[retour](README.md)
 
 # Règlement intérieur de l'immeuble « Le Patio »
 
