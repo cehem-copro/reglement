@@ -79,7 +79,7 @@ Les occupants devront souffrir sans indemnité l'exécution des réparations qui
 ## 12. Antennes
 L'installation d'antennes individuelles extérieures (antennes paraboliques ou râteaux) n'est pas autorisée.
 
-13. Garages et véhicules 
+## 13. Garages et véhicules 
 
 Les garages ne peuvent servir qu'au remisage. Il ne peut y être exploité aucun atelier de réparations, ni y être entreposées de matières toxiques ou inflammables. Il est interdit de faire tourner les moteurs autrement que pour les besoins du départ et de la rentrée des véhicules.
 
