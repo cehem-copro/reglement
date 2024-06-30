@@ -85,9 +85,13 @@ Les garages ne peuvent servir qu'au remisage. Il ne peut y être exploité aucun
 
 Il est strictement interdit de laver son véhicule tant dans son garage que sur le parking de l'immeuble. 
 
-## 14. Utilisation de l'eau en accès commun 
+## 14. Utilisation de l'eau et de l'électricité en accès commun 
 
 L'eau disponible dans le local à poubelle est réservée exclusivement au nettoyage du local ou à tous autres travaux autorisés par le syndic (arrosage des pelouses, entretien des parties communes, etc.). Nul ne peut disposer de cette eau pour son usage personnel (lavage de voiture, remplissage de bidons, etc.).
+
+Les prises électriques situées dans les parties communes sont réservées exclusivement aux travaux autorisés par le syndic. Nul ne peut disposer de l'électricité des communs pour son usage personnel (recharge de batterie, appareils divers).
+
+Pour  des raisons de sécurité, il est strictement interdit de brancher quel appareil électrique que ce soit dans les parties communes de l’immeuble sans autorisation préalable.
 
 ## 15. Tapis-brosses 
 
