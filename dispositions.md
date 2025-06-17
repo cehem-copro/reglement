@@ -24,4 +24,4 @@ Les entrées et les sorties de l'immeuble sont sous la responsabilité des habit
 
 Seul le Syndic propose les travaux d'intérêt collectif et mandate des professionnels autorisés à opérer dans les parties communes. 
 
-L'accès aux dispositifs électriques des parties communes est strictment interdit aux personnes non autorisées. 
+L'accès aux dispositifs électriques des parties communes est strictement interdit aux personnes non autorisées. 
