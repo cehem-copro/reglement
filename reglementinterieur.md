@@ -139,7 +139,7 @@ Pour des raisons pratiques, à cause de l'exigüité des emplacements intérieur
 - que les propriétaires de vélos utilisant ce moyen de locomotion au quotidien puissent accéder à leur vélo le plus facilement possible,
 - que les propriétaires de vélos qui n'utilisent que rarement leurs vélos remisent ces derniers au fond du local vélo principal.
 
-Entrepôt abusif et présence de vélos abandonnés : ils seront emenés en déchetterie après un temps de prévenance par affichage.
+Entrepôt abusif et présence de vélos abandonnés : ils seront emenés en déchèterie après un temps de prévenance par affichage.
 
 ## 21. Le présent règlement
 
