@@ -127,7 +127,21 @@ En cas de non respect de ces règles, et après un unique avertissement, les fra
 
 Toute dégradation volontaire dans les parties communes fera l'objet de poursuites.
 
-## 20. Le présent règlement
+## 20. Vélos
+
+L'immeuble dispose d'un local vélo principal et d'un local vélo secondaire au rez-de-chaussée, ainsi que d'arceaux à vélo dans la cour. Tout entreprôt de vélo dans les parties communes en dehors de ces emplacements est interdit.
+
+L'entreposage de vélo est limité à **un vélo par occupant** de l'immeuble. Les locataires sont invités à utiliser les arceaux dans la cour.
+
+Pour des raisons pratiques, à cause de l'exigüité des emplacements intérieurs, le conseil syndical préconise :
+
+- dans la mesure du possible, que les propriétaires ou locataires de garage utilisent leur garage pour entreposer leur vélo,
+- que les propriétaires de vélos utilisant ce moyen de locomotion au quotidien puissent accéder à leur vélo le plus facilement possible,
+- que les propriétaires de vélos qui n'utilisent que rarement leurs vélos remisent ces derniers au fond du local vélo principal.
+
+Entrepôt abusif et présence de vélos abandonnés : ils seront emenés en déchetterie après un temps de prévenance par affichage.
+
+## 21. Le présent règlement
 
 Le présent règlement intérieur fixe les règles et prescriptions d’intérêt général qui s’imposent à tous les occupants de l'immeuble. Chacun, en qualité de propriétaire ou de locataire, s'engage à le respecter. Il appartient aux propriétaires ayant qualité de bailleurs de s'assurer que leurs locataires puissent en prendre connaissance et qu'ils le respectent aussi longtemps qu'ils occuperont leur logement.
 
